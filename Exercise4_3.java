@@ -1,3 +1,11 @@
+/**
+* Ad Soyad : Hatice Kırmızgül
+* Öğrenci No : 250541102
+* Açıklama : Metot çağrılarının sırasını ve çıktı üzerinde etkisini anlamak için yazılıyor.
+* Tarih : 28.11.2025
+*/    
+
+
 public class Exercise4_3 {
 
     public static void zoop() {
@@ -22,3 +30,9 @@ public class Exercise4_3 {
         System.out.println(".");
     }
 }
+
+/** SORULARIN CEVAPLARI
+    1.
+    2. No , I wug.
+         You wugga wug.
+       I wug.
