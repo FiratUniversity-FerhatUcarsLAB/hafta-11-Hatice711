@@ -1,3 +1,11 @@
+/**
+* Ad Soayad : Hatice Kırmızıgül
+* Öğrenci No : 250541102
+* Açıklama : Program çalışırken hangi metotların aktif olduğunu,hangi parametrelerle çağrıldığını analiz etmek.
+* Tarih : 02.12.2025
+*/    
+
+
 public class Exercise4_5 {
 
     public static void zoop(String fred, int bob) {
@@ -25,3 +33,26 @@ public class Exercise4_5 {
         System.out.println("any " + strangStrung + "more ");
     }
 }
+
+
+// CEVAP 1:
++------------------------------+
+| zoop(fred="breakfast",bob=4) |
++------------------------------+
+             |
++------------------------------+
+| clink(fork=4)                |
++------------------------------+
+             |
++------------------------------+
+| main(bizz=5, buzz=2)         |
++------------------------------+ 
+
+
+
+
+//CEVAP 2:
+    just for
+     any not more 
+    It's breakfast
+    !    
